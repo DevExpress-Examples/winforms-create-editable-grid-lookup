@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/PopupContainerEditSelection/Form1.cs) (VB: [Form1.vb](./VB/PopupContainerEditSelection/Form1.vb))
+* [Program.cs](./CS/PopupContainerEditSelection/Program.cs) (VB: [Program.vb](./VB/PopupContainerEditSelection/Program.vb))
+<!-- default file list end -->
 # How to emulate an editable GridLookUpEdit with PopupContainerEdit
 
 
